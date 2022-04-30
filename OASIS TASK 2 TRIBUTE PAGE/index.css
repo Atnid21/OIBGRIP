@@ -1,0 +1,39 @@
+body {
+  font-family: sans-serif;
+  background-color: #000000;
+}
+
+.card {
+  padding: 15px !important;
+  background-color: #fafafa;
+  margin: 3px;
+  text-align: "left";
+  border-radius: 5px;
+  border: 1px solid #cccccc;
+}
+
+.well {
+  background-color: #ffffff;
+  border: 1px solid #000000;
+  border-radius: 5px;
+  padding: 30px;
+  margin: 30px;
+}
+
+.text-center {
+  display: flex;
+  justify-content: center;
+}
+
+#img-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+#image {
+  margin: 10px;
+  border: 1px solid #cccccc;
+  width: 100%;
+}
